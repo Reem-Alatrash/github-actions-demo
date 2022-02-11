@@ -4,4 +4,5 @@ def add(x, y):
     return x + y
 
 
-print(add(1, 1))
+print("addition result: {}".format(add(1, 1)))
+print("End of execution")
